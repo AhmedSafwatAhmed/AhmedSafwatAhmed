@@ -36,7 +36,7 @@
 
 | OEM | Domain | Role |
 |-----|--------|------|
-| **Honda** | Level 3 Autonomous Driving | AUTOSAR BSW Feature Development (Valeo) |
+| **Honda** | SAE Level 3 Autonomous Driving | AUTOSAR BSW Feature Development (Valeo) |
 | **Stellantis** | HPC / Zonal Architecture | Technical Product Owner (T&S Services) |
 | **Geely** | Cybersecurity, ISO 21434 | Embedded Cybersecurity Engineer |
 | **Mercedes-Benz, Renault, VW** | Various ECU projects | Embedded Software Engineer |
